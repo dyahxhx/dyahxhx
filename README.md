@@ -3,7 +3,7 @@
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://hyuneka.tistory.com/)](https://hyuneka.tistory.com/)  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/2b777951c1b680bfb4e6c82b43ee488b?source=copy_link)](https://www.notion.so/2b777951c1b680bfb4e6c82b43ee488b?source=copy_link)
 
 
-* 💻 아직 배울게 많은 백엔드 개발자입니다.
+* 💻 아직 부족함이 많은 백엔드 개발자입니다.
 * 🧩 비즈니스 로직 설계, 데이터 모델링, API 설계에 재미를 느끼며 꾸준히 역량을 확장하고 있습니다.
 * 😎 더 나은 구조와 확장성을 고민하며, 개발자답게 성장하기 위해 오늘도 배우고 있습니다.
 
