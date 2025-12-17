@@ -1,11 +1,3 @@
-### 👋 반갑습니다!
-
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://hyuneka.tistory.com/)](https://hyuneka.tistory.com/)  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/2b777951c1b680bfb4e6c82b43ee488b?source=copy_link)](https://www.notion.so/2b777951c1b680bfb4e6c82b43ee488b?source=copy_link)
-
-
-* 💻 
-* 🧩 
-* 😎 
 
 **SKILLS**  
 
