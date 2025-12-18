@@ -16,6 +16,6 @@
 ## Github Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dyahxhx&show_icons=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyahxhx&layout=compact&theme=transparent" height="165"/>
 </p>
+
 
